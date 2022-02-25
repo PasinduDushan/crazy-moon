@@ -1,0 +1,21 @@
+{
+    "name": "crazy-moon",
+    "displayName": "crazy-moon",
+    "description": "Super cool VSCode color extension",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Crazy Moon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Crazy Moon-color-theme.json"
+            }
+        ]
+    }
+}
