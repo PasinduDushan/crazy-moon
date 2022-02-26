@@ -2,9 +2,20 @@
     "name": "crazy-moon",
     "displayName": "crazy-moon",
     "description": "Super cool VSCode color extension",
-    "version": "0.0.1",
+    "publisher": "CrazyMoon",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.64.0"
+    },
+    "icon": "icons/crazy-moon.png",
+    "author": {
+        "name": "Pasindu",
+        "email": "pasindudushan07@gmail.com",
+        "url": "https://github.com/PasinduDushan"	
+    },
+    "repository": {
+        "url": "https://github.com/PasinduDushan/crazy-moon",
+        "type": "git"
     },
     "categories": [
         "Themes"
